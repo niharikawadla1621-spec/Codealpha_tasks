@@ -21,9 +21,12 @@ Working on AI and Machine Learning applications.
 Technologies Used
 
 - Python
+- HTML
+- CSS
 - Artificial Intelligence
 - Machine Learning
 - GitHub
+
 
 Goal
 
